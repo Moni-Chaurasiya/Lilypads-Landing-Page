@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply font-sans antialiased;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    /* @apply font-serif; */
+    @apply font-sans antialiased
+  }
+}
+
+@layer components {
+  .gradient-bg {
+    background: linear-gradient(135deg, #8B7AB8 0%, #A98FCC 100%);
+  }
+}

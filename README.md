@@ -4,10 +4,11 @@
 ## 📸 Screenshots
 
 ### Desktop View 
-![Desktop Landing](/Landing.png)
-![Desktop Landing 2](/Landing2.png)
-![About](/About.png)
-![Footer](/Footer.png)
+![Desktop Landing](./src/assets/Landing.png)
+![Desktop Landing 2](./src/assets/Landing2.png)
+![About](./src/assets/About.png)
+![Footer](./src/assets/Footer.png)
+
 
 ## 🛠️ Tech Stack
 

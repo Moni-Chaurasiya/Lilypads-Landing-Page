@@ -5,7 +5,6 @@
 
 ### Desktop View 
 ![Desktop Landing](./src/assets/Landing.png)
-![Desktop Landing 2](./src/assets/Landing2.png)
 ![About](./src/assets/About.png)
 ![Footer](./src/assets/Footer.png)
 

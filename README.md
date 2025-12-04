@@ -4,11 +4,10 @@
 ## 📸 Screenshots
 
 ### Desktop View 
-![Desktop Landing](/lilypads-landing/public/Landing.png)
-![Desktop Landing2](/lilypads-landing/public/Landing2.png)
-![About](/lilypads-landing/public/About.png)
-![Footer](/lilypads-landing/public//Footer.png)
->
+![Desktop Landing](/Landing.png)
+![Desktop Landing 2](/Landing2.png)
+![About](/About.png)
+![Footer](/Footer.png)
 
 ## 🛠️ Tech Stack
 

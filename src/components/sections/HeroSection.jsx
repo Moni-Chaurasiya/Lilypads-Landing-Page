@@ -23,7 +23,7 @@ const HeroSection = () => {
                 <span className="w-8 h-0.5 bg-[#9E2349]"></span>
                 Welcome to the
               </p>
-              <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold leading-tight mb-6">
+              <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold leading-tight mb-6 font-serif">
                 Unprecedented<br />
                 Era of <span className="text-[#9E2349]">Real Estate</span><br />
                 <span className="text-[#9E2349]">Investing</span>
